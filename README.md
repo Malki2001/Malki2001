@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/diluminduwara.rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/diluminduwara.rathnayake" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/_dilum_induwara_?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_dilum_induwara_?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/malki-yasodhara-b3194122b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,8 +30,7 @@
 <a href=""><img alt="Malki Yasodhara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malki2001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-<br><br>
-
+<br><br><br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malki2001&theme=monokai)
 
 
